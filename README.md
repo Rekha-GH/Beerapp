@@ -20,7 +20,7 @@ Available Scripts
 In the project directory, you can run:
 
 yarn start
-For quick review of the app click on the below link or copy and paste on the browser https://rekha-gh.github.io/books-app/
+For quick review of the app click on the below link or copy and paste on the browser https://rekha-gh.github.io/Beerapp/
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
